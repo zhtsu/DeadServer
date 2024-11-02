@@ -1,4 +1,4 @@
-package cc.zhtsu.dead_server;
+package cc.zhtsu.deadserver;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
