@@ -1,2 +1,2 @@
-# DeadServer
+# DyingServer
 死服
