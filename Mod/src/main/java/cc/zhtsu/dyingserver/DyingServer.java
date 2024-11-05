@@ -1,5 +1,6 @@
 package cc.zhtsu.dyingserver;
 
+import cc.zhtsu.dyingserver.block.ModBlocks;
 import cc.zhtsu.dyingserver.item.ModCreativeModTabs;
 import cc.zhtsu.dyingserver.item.ModItems;
 import com.mojang.logging.LogUtils;
@@ -29,6 +30,7 @@ public class DyingServer
 
         ModItems.register(modEventBus);
         ModCreativeModTabs.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
