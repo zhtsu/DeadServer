@@ -2,6 +2,11 @@
   "item.dyingserver.snail": "蜗牛",
 
   "block.dyingserver.flesh_001": "血肉块-001",
+  "block.dyingserver.flesh_002": "血肉块-002",
+  "block.dyingserver.flesh_with_eyes_001": "嵌眼血肉块-001",
+  "block.dyingserver.flesh_with_eyes_002": "嵌眼血肉块-002",
+  "block.dyingserver.flesh_trap": "血肉陷阱块",
+  "block.dyingserver.sea_tile": "海洋瓷砖",
 
   "creativetab.dyingserver_tab": "死服物品栏"
 }

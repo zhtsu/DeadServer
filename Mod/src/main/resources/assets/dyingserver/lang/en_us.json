@@ -2,6 +2,11 @@
   "item.dyingserver.snail": "Snail",
 
   "block.dyingserver.flesh_001": "Flesh-001",
+  "block.dyingserver.flesh_002": "Flesh-002",
+  "block.dyingserver.flesh_with_eyes_001": "Flesh with Eyes-001",
+  "block.dyingserver.flesh_with_eyes_002": "Flesh with Eyes-002",
+  "block.dyingserver.flesh_trap": "Flesh Trap",
+  "block.dyingserver.sea_tile": "Sea Tile",
 
   "creativetab.dyingserver_tab": "Dying Server Tab"
 }
