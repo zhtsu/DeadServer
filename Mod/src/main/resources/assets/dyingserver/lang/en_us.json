@@ -3,10 +3,15 @@
 
   "block.dyingserver.flesh_001": "Flesh-001",
   "block.dyingserver.flesh_002": "Flesh-002",
-  "block.dyingserver.flesh_with_eyes_001": "Flesh with Eyes-001",
-  "block.dyingserver.flesh_with_eyes_002": "Flesh with Eyes-002",
+  "block.dyingserver.eyed_flesh_001": "Eyed Flesh-001",
+  "block.dyingserver.eyed_flesh_002": "Eyed Flesh-002",
   "block.dyingserver.flesh_trap": "Flesh Trap",
-  "block.dyingserver.sea_tile": "Sea Tile",
+  "block.dyingserver.ocean_tile": "Ocean Tile",
+  "block.dyingserver.asphalt": "Asphalt",
+  "block.dyingserver.cold_slate": "Cold Slate",
+  "block.dyingserver.cold_stone": "Cold Stone",
+  "block.dyingserver.luminous_steel_wood": "Luminous Steel Wood",
+  "block.dyingserver.white_tile": "White Tile",
 
   "creativetab.dyingserver_tab": "Dying Server Tab"
 }

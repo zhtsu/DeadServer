@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "dyingserver:block/sea_tile"
+    "all": "dyingserver:block/luminous_steel_wood"
   }
 }

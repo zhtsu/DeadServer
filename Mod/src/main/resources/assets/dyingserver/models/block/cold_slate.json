@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "dyingserver:block/flesh_with_eyes_002"
+    "all": "dyingserver:block/cold_slate"
   }
 }

@@ -3,10 +3,15 @@
 
   "block.dyingserver.flesh_001": "血肉块-001",
   "block.dyingserver.flesh_002": "血肉块-002",
-  "block.dyingserver.flesh_with_eyes_001": "嵌眼血肉块-001",
-  "block.dyingserver.flesh_with_eyes_002": "嵌眼血肉块-002",
+  "block.dyingserver.eyed_flesh_001": "嵌眼血肉块-001",
+  "block.dyingserver.eyed_flesh_002": "嵌眼血肉块-002",
   "block.dyingserver.flesh_trap": "血肉陷阱块",
-  "block.dyingserver.sea_tile": "海洋瓷砖",
+  "block.dyingserver.ocean_tile": "海洋瓷砖",
+  "block.dyingserver.asphalt": "柏油路块",
+  "block.dyingserver.cold_slate": "冷板岩",
+  "block.dyingserver.cold_stone": "冷石",
+  "block.dyingserver.luminous_steel_wood": "荧钢木",
+  "block.dyingserver.white_tile": "白色瓷砖",
 
   "creativetab.dyingserver_tab": "死服物品栏"
 }

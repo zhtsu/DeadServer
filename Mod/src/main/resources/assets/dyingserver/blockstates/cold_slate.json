@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dyingserver:block/cold_slate"
+    }
+  }
+}

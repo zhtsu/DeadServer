@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "dyingserver:block/eyed_flesh_002"
+  }
+}

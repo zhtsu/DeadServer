@@ -12,7 +12,6 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
-import org.apache.http.config.Registry;
 
 import java.util.function.Supplier;
 
@@ -25,13 +24,23 @@ public class ModBlocks
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)));
     public static final RegistryObject<Block> FLESH_002 = registerBlock("flesh_002",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)));
-    public static final RegistryObject<Block> FLESH_WITH_EYES_001 = registerBlock("flesh_with_eyes_001",
+    public static final RegistryObject<Block> EYED_FLESH_001 = registerBlock("eyed_flesh_001",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)));
-    public static final RegistryObject<Block> FLESH_WITH_EYES_002 = registerBlock("flesh_with_eyes_002",
+    public static final RegistryObject<Block> EYED_FLESH_002 = registerBlock("eyed_flesh_002",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)));
     public static final RegistryObject<Block> FLESH_TRAP = registerBlock("flesh_trap",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)));
-    public static final RegistryObject<Block> SEA_TILE = registerBlock("sea_tile",
+    public static final RegistryObject<Block> OCEAN_TILE = registerBlock("ocean_tile",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)));
+    public static final RegistryObject<Block> ASPHALT = registerBlock("asphalt",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)));
+    public static final RegistryObject<Block> COLD_SLATE = registerBlock("cold_slate",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)));
+    public static final RegistryObject<Block> COLD_STONE = registerBlock("cold_stone",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)));
+    public static final RegistryObject<Block> LUMINOUS_STEEL_WOOD = registerBlock("luminous_steel_wood",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)));
+    public static final RegistryObject<Block> WHITE_TILE = registerBlock("white_tile",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).sound(SoundType.AMETHYST)));
 
     private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T> block)
